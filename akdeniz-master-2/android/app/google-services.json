@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "997332879381",
+    "firebase_url": "https://loyalapp3-c8940-default-rtdb.firebaseio.com",
+    "project_id": "loyalapp3-c8940",
+    "storage_bucket": "loyalapp3-c8940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997332879381:android:da467c93abc7e3b019e61c",
+        "android_client_info": {
+          "package_name": "com.example.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdf4BU2pRuWC8zMO-88dm4ZUoxzjyTK0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997332879381:android:b8c561ea2e0375ea19e61c",
+        "android_client_info": {
+          "package_name": "com.selaqmmmmmm.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdf4BU2pRuWC8zMO-88dm4ZUoxzjyTK0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997332879381:android:356c7a0ece64a31a19e61c",
+        "android_client_info": {
+          "package_name": "com.yourcompany.yourapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdf4BU2pRuWC8zMO-88dm4ZUoxzjyTK0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
